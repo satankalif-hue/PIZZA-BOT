@@ -1,0 +1,7 @@
+# Skopiuj do .env (lokalnie) albo wpisz jako zmienne środowiskowe na hostingu
+PAGE_TOKEN=             # token strony z Meta for Developers
+VERIFY_TOKEN=pizza-123  # dowolne hasło, to samo wpiszesz w Meta przy webhooku
+APP_SECRET=             # Ustawienia aplikacji -> Podstawowe -> Klucz tajny aplikacji
+PANEL_KEY=              # hasło do panelu, np. długi losowy ciąg
+ANTHROPIC_API_KEY=      # opcjonalnie: rezerwowe rozumienie wiadomości
+MAX_PER_DAY=0           # 0 = bez limitu, 1 = jedna pizza dziennie na osobę
